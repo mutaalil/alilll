@@ -1,0 +1,39 @@
+body{
+    background-color: #4b3a31;
+}
+.container{
+        width: 800px;
+        margin:auto;
+        background-color:rgb(187, 154, 138);
+}
+.header h1{
+    font-size: 40px;
+    margin-left: 20px; 
+    }
+.header ul li{
+    display: inline-block;
+    margin-left:20px;
+}
+.cover{
+    height: 300px;
+    width: 800px;
+    background-image: url(https://cdn.pnghd.pics/data/260/gambar-animasi-2-orang-19.jpg)
+}
+.content h1{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.content h4{
+    margin-left: 20px;
+}
+.content p{
+    margin-left: 20px;
+}
+.footer{
+    background-color: rgb(85, 55, 10);
+    text-align: center;
+    color: rgb(109, 79, 14);
+    scroll-margin-top:20px;
+}
+.footer {font-size: 18px;
+}
